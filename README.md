@@ -1,4 +1,15 @@
 <div align="center">
+<h2>NOT OFFICIAL</h2>
+ </div>
+
+> [!WARNING]
+> I made this personal experiment out of boredom.
+> It's **not intended for public use**, isn't actively maintained, and might be in a weird state at any time.
+
+> [!CAUTION]
+> Do NOT download anything from the [release page](https://github.com/Anderhale/tsundoku/release)
+---
+<div align="center">
 
 <a href="https://mihon.app">
     <img src="./.github/assets/logo.png" alt="Mihon logo" title="Mihon logo" width="80"/>
